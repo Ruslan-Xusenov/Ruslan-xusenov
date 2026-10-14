@@ -1,7 +1,7 @@
 # 👋Ruslan Xusenov
 
 🎓 Toshkent Davlat Iqtisodiyot Universiteti  
-🔐 Axborot Xavfsizligi yo‘nalishi, 3-bosqich (3/5)
+🔐 Axborot Xavfsizligi yo‘nalishi, 5-bosqich (5/5)
 
 ## 👨‍💻 Men haqimda
 Men axborot xavfsizligi va veb-texnologiyalar sohasiga qiziqadigan, amaliy loyihalar orqali tajriba to‘playotgan talaba-dasturchiman. Asosiy e’tiborim — xavfsiz, barqaror va kengaytiriladigan tizimlar yaratish.
